@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible"  content="IE=edge">
     <meta name="viewport"               content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="description"            content="HPE Just Right IT">
-    <meta name="keywords"               content="HPE Just Right IT">
+    <meta name="description"            content="HPE más cerca de ti.">
+    <meta name="keywords"               content="HPE más cerca de ti.">
     <meta name="robots"                 content="Index,Follow">
     <meta name="date"                   content="December 15, 2018"/>
     <meta name="language"               content="en">
     <meta name="theme-color"            content="#425563">
-	<title>HPE Just Right IT</title>
+	<title>HPE m&aacute;s cerca de ti.</title>
     <link rel="shortcut icon" href="<?php echo RUTA_IMG?>logo/favicon.ico">
     <link rel="stylesheet"    href="<?php echo RUTA_PLUGINS?>toaster/toastr.css?v=<?php echo time();?>">
     <link rel="stylesheet"    href="<?php echo RUTA_PLUGINS?>mdl/material.min.css?v=<?php echo time();?>">
@@ -60,13 +60,24 @@
     <section id="home">
         <div class="owl-carousel owl-theme">
             <div class="item">
+                <div class="js-fondo fondo6"></div>
+                <div class="js-container">
+                    <div class="js-home js-flex">
+                        <div class="js-contenido">
+                            <h2 class="open-sans">¡HPE M&aacute;s cerca de Ti!</h2>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
                 <div class="js-fondo fondo1"></div>
                 <div class="js-container">
                     <div class="js-home js-flex">
                         <div class="js-contenido">
-                            <h2>"T&uacute; aceptas los retos sin dudar?"</h2>
+                            <h2>La vida es un desaf&iacute;o, ¿Aceptas los retos sin dudar?</h2>
                             <p>Te invitamos a ser parte del equipo ganador.</p>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -77,7 +88,7 @@
                     <div class="js-home js-flex">
                         <div class="js-contenido">
                             <h2>Te esperamos esta tarde  para compartir y pasarla divertida</h2>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -87,9 +98,9 @@
                 <div class="js-container">
                     <div class="js-home js-flex">
                         <div class="js-contenido">
-                            <h2>"T&uacute; aceptas los retos sin dudar?"</h2>
-                            <p>Te invitamos a este evento para ser parte del equipo ganador.</p>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <h2>La vida es un desaf&iacute;o, ¿Aceptas los retos sin dudar?</h2>
+                            <p>Te invitamos a ser parte del equipo ganador.</p>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -100,18 +111,7 @@
                     <div class="js-home js-flex">
                         <div class="js-contenido">
                             <h2>Te esperamos esta tarde  para compartir y pasarla divertida</h2>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="js-fondo fondo6"></div>
-                <div class="js-container">
-                    <div class="js-home js-flex">
-                        <div class="js-contenido">
-                            <h2 class="open-sans">Aruba esta cerca de ti!!</h2>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -121,9 +121,9 @@
                 <div class="js-container">
                     <div class="js-home js-flex">
                         <div class="js-contenido">
-                            <h2>Sabemos que  tu  aceptas los retos sin dudar</h2>
-                            <p>Te invitamos a este evento para ser parte del equipo ganador.</p>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <h2>¿Est&aacute;s preparandote para afrontar los retos que trae el cambio?</h2>
+                            <p>Te invitamos a ser parte del equipo ganador.</p>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -133,8 +133,8 @@
                 <div class="js-container">
                     <div class="js-home js-flex">
                         <div class="js-contenido">
-                            <h2 class="open-sans">Aruba esta cerca de ti!!</h2>
-                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Registrese aqu&iacute;</a>
+                            <h2 class="open-sans">¡HPE M&aacute;s cerca de Ti!</h2>
+                            <a href="#register" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect link js-button">Reg&iacute;strate ahora</a>
                         </div>
                     </div>
                 </div>
@@ -144,15 +144,16 @@
     <section id="register" class="js-section">
         <div class="js-container">
             <div class="js-information">
+                <img class="jm-logo-hpe" src="<?php echo RUTA_IMG?>logo/logo-hpemascercadeti.png">
                 <h2>Martes 23 de Abril, 2019</h2>
-                <h3>Hora de inicio: 4:00 p.m.</h3>
-                <p>Panam&aacute; Beer Factory</p>
-                <span>Barrio Escalante, 100mts sur de Fresh Market o 600mts norte de Bagelmen´s, Calle 33, San Jos&eacute;</span>
+                <h3>Hora de inicio: 3:30 p.m.</h3>
+                <p>Restaurante Segundo Muelle</p>
+                <span>Calle Crisantemos Nº 16 esquina con calle 68, corregimiento de San Francisco, Ciudad de Panam&aacute;</span>
                 <small>No queremos que te olvides de esta cita</small>
-                <a href="http://iradianty.com/HPE/events/microsite/JustRightIT/Panama/public/cita/Evento_HPE_JustRightIT.ics">Reservar fecha</a>
+                <a href="http://iradianty.com/HPE/events/microsite/HPE-MasCercaDeTi/Panama/public/cita/Evento_hpemascercadeti_panama.ics">Reservar fecha</a>
             </div>
             <div class="js-title">
-                <h2>REG&Iacute;STRESE AHORA</h2>
+                <h2>REG&Iacute;STRATE AHORA</h2>
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -210,18 +211,18 @@
                     </div>
                 </div>
                 <div class="col-xs-12 text-center jm-subtitle">
-                    <h2>Queremos  compartir la mesa contigo para esta noche  por lo que te ofrecemos a elegir  estas opciones de estas espectaculares hamburguesas</h2>
+                    <h2>Queremos compartir la mesa contigo esta noche, por lo que te ofrecemos a elegir entre las opciones de estas espectaculares hamburguesas.</h2>
                 </div>
                 <div class="col-xs-12">
-                    <div class="col-md-3 col-sm-6 col-xs-6 jm-book">
+                    <div class="col-md-3 col-sm-6 col-xs-12 jm-book">
                         <div class="jm-book__flip">
                             <div class="jm-book__front">
-                                <h2>La aruba ex&oacute;tica</h2>
+                                <h2>La Aruba ex&oacute;tica</h2>
                                 <img src="<?php echo RUTA_IMG?>logo/burger1.jpg">
                             </div>
                             <div class="jm-book__back">
-                                <p>Estilo americano texano, torta de carne de res Premium en salsa BBQ, lonjas de tocineta crocante, 
-                                aros de cebolla empanizados, queso maduro y aros de jalape&ntilde;o.</p>
+                                <p>La emblematica receta peruana <strong>del Lomo Saltado</strong> en version emparedado. Trozos de res asados al wok con cebolla, tomate y ajies. 
+                                Filete de res salteado con soya, aceite y vinagre blanco, cebolla, tomate y aji amarillo, Pan Italianinno.</p>
                                 <button id="book1" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="openModalLibro(this.id)">Ver m&aacute;s</button>
                             </div>
                         </div>
@@ -229,15 +230,15 @@
                             <input type="radio" id="burger-1" class="mdl-radio__button" name="options" value="1">
                         </label>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-6 jm-book">
+                    <div class="col-md-3 col-sm-6 col-xs-12 jm-book">
                         <div class="jm-book__flip">
                             <div class="jm-book__front">
                                 <h2>La Simplivity</h2>
                                 <img src="<?php echo RUTA_IMG?>logo/burger2.jpg">                                
                             </div>
                             <div class="jm-book__back">
-                                <p>Delicioso lomo al t&eacute;rmino de su preferencia, ba&ntilde;ado en salsa 3 quesos, con mezclas de sabores, 
-                                aguacate, tocino y una deliciosa textura crocante de patac&oacute;n</p>
+                                <p>El Famoso plato llamado <strong>Aji de Gallina,</strong> Pollo deshilachado ba&ntilde;ado en crema a base de leche, nueces, y queso. 
+                                Con el punto perfecto de picante. Pollo deshilachado, huevo, aceituna, crema a base de leche, trigo, queso, nueces y aji amarillo, Pan Italianinno</p>
                                 <button id="book2" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="openModalLibro(this.id)">Ver m&aacute;s</button>
                             </div>
                         </div>
@@ -245,15 +246,15 @@
                             <input type="radio" id="burger-2" class="mdl-radio__button" name="options" value="1">
                         </label>                
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-6 jm-book">
+                    <div class="col-md-3 col-sm-6 col-xs-12 jm-book">
                         <div class="jm-book__flip">
                             <div class="jm-book__front">
                                 <h2>La Nimble</h2>
                                 <img src="<?php echo RUTA_IMG?>logo/burger3.jpg">
                             </div>
                             <div class="jm-book__back">
-                                <p>Deliciosa hamburguesa con lomito, servido en lonjas con pan de ajonjol&iacute;, acompa&ntilde;ada con 
-                                guacamole ( ligeramente picante ), tocineta, rodajas de tomate con queso mozzarella fresco.</p>
+                                <p>Crocante medallon de cerdo cocido y frito en su propia grasa, <strong>El Pan con Chicharron,</strong> acompa&ntilde;ado de salsa criolla y camote frito. Medallon de lomo liso de cerdo, 
+                                sazonado en achiote, ajo y especias, Pan Italianinno, camote frito.</p>
                                 <button id="book3" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="openModalLibro(this.id)">Ver m&aacute;s</button>
                             </div>
                         </div>
@@ -261,15 +262,15 @@
                             <input type="radio" id="burger-3" class="mdl-radio__button" name="options" value="1">
                         </label>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-6 jm-book">
+                    <div class="col-md-3 col-sm-6 col-xs-12 jm-book">
                         <div class="jm-book__flip">
                             <div class="jm-book__front">
                                 <h2>La ClearPass</h2>
                                 <img src="<?php echo RUTA_IMG?>logo/burger4.jpg">
                             </div>
                             <div class="jm-book__back">
-                                <p>Un rico pan artesanal con corteza y miga blanca, relleno de una mezcla de vegetales 
-                                salteados con salsa pomodoro de la casa y queso mozzarella gratinado.</p>
+                                <p>Jugosa hamburguesa de res, lechuga, tomate y nuestra deliciosa <strong>salsa huancaina</strong> a base de aji amarillo y queso. Hamburguesa 100% carne de res, 
+                                Pan Hamburguesa de huevo, Lechuga, tomate y salsa huancaina.</p>
                                 <button id="book4" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="openModalLibro(this.id)">Ver m&aacute;s</button>
                             </div>
                         </div>
@@ -290,15 +291,15 @@
     </section>
     <section id="login" class="js-section jm-white jm-acceso">
         <div class="js-container">
-            <h2 class="js-title">HAZ EL QUIZ Y G&Aacute;NATE ESTE DASH</h2>
+            <h2 class="js-title">COMPLETA LA ENCUESTA Y G&Aacute;NATE ESTE DASH CAM</h2>
             <img src="<?php echo RUTA_IMG?>fondo/regalo.png">
-            <p class="text-center">Si usted ya se encuentra registrado, ingrese su email para realizar un quiz y ganar grandes premios.</p>
+            <p class="text-center">Si ya te encuentras registrado, ingresa tu email para realizar una breve encuesta y ganar grandes premios.</p>
             <div class="js-input js-input--default">
                 <label for="text">Email*</label>
                 <input type="text" id="emailRegister" onkeyup="verificarDatos(event);">
             </div>
             <div class="js-reserva text-center">
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button js-login" onclick="ingresarQuiz()">Empezar Quiz</button>
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button js-login" onclick="ingresarQuiz()">Empezar la encuesta</button>
             </div>
             <div id="registered" class="js-confirmation">
                 <h2>Registro completado. ¡Nos vemos en Houston!</h2>
@@ -324,7 +325,343 @@
                         <div class="jm-question one-question" id="question-one">
                             <div class="jm-list--checkbox">
                                 <div class="jm-title--checlbox">
-                                    <h2>1. Que marcas comercializa tu empresa? (Escoger m&aacute;s de una opci&oacute;n)</h2>
+                                    <h2>1. Su empresa vende a:</h2>
+                                </div>
+                                <div class="js-checkbox max-width jm-checkbox--one">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-1">
+                                        <input type="checkbox" id="question1-1" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">End users</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox max-width jm-checkbox--one">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-2">
+                                        <input type="checkbox" id="question1-2" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Resellers</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="two" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question two-question" id="question-two">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>2. ¿Cu&aacute;ntas personas trabajan en el equipo de ventas de tu empresa?</h2>
+                                </div>
+                                <div class="jm-input jm-block">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="person">
+                                        <label class="mdl-textfield__label" for="person">Personas</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="three" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question three-question" id="question-three">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>3. ¿Cu&aacute;ntos empleados t&eacute;cnicos tiene tu empresa?</h2>
+                                </div>
+                                <div class="jm-input jm-block">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="employee">
+                                        <label class="mdl-textfield__label" for="employee">Empleados</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="four" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question four-question" id="question-four">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>4. ¿Cu&aacute;les son las principales industrias con las que trabajas?</h2>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-BANCA">
+                                        <input type="checkbox" id="INDUSTRY-BANCA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Banca y Finanzas</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-SALUD">
+                                        <input type="checkbox" id="INDUSTRY-SALUD" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Salud</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-GOBIERNO">
+                                        <input type="checkbox" id="INDUSTRY-GOBIERNO" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Gobierno</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-EDUCACION">
+                                        <input type="checkbox" id="INDUSTRY-EDUCACION" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Educaci&oacute;n</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-MANUFACTURA">
+                                        <input type="checkbox" id="INDUSTRY-MANUFACTURA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Manufactura</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-HOTELERIA">
+                                        <input type="checkbox" id="INDUSTRY-HOTELERIA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Hoteler&iacute;a</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-CORPORATIVO">
+                                        <input type="checkbox" id="INDUSTRY-CORPORATIVO" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Corporativo</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--industry">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="INDUSTRY-OTROS">
+                                        <input type="checkbox" id="INDUSTRY-OTROS" class="mdl-checkbox__input" data-name="otros" onclick="checkedOtros($(this))">
+                                        <span class="mdl-checkbox__label">OTROS</span>
+                                    </label>
+                                </div>
+                                <div class="jm-input">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="industry-input">
+                                        <label class="mdl-textfield__label" for="industry-input">Especifica</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="five" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question five-question" id="question-five">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>5. ¿Cu&aacute;les servicios ofrecen?</h2>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--service">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SERVICE-CONSULTORY">
+                                        <input type="checkbox" id="SERVICE-CONSULTORY" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Dise&ntilde;o y consultor&iacute;a</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--service">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SERVICE-INSTALATION">
+                                        <input type="checkbox" id="SERVICE-INSTALATION" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Instalaci&oacute;n</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--service">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SERVICE-SOPORTE">
+                                        <input type="checkbox" id="SERVICE-SOPORTE" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Soporte y mantenimiento</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--service">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SERVICE-SELL">
+                                        <input type="checkbox" id="SERVICE-SELL" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Venta de productos</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="six" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question six-question" id="question-six">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>6. ¿Que porcentaje de sus ventas son de hardware y qu&eacute; de servicios?</h2>
+                                </div>
+                                <div class="jm-input jm-block">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="hardware">
+                                        <label class="mdl-textfield__label" for="hardware">Hardware %</label>
+                                    </div>
+                                </div>
+                                <div class="jm-input jm-block">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="service">
+                                        <label class="mdl-textfield__label" for="service">Servicios %</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="seven" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question seven-question" id="question-seven">
+                            <div class="jm-list--checkbox"> 
+                                <div class="jm-title--checlbox">
+                                    <h2>7. ¿Conoces las siguientes herramientas?</h2>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-IQUOTE">
+                                        <input type="checkbox" id="SETTING-IQUOTE" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">iQuote</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-PROMOS">
+                                        <input type="checkbox" id="SETTING-PROMOS" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Promos Made Simple</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-ARUBAPEDIA">
+                                        <input type="checkbox" id="SETTING-ARUBAPEDIA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Arubapedia</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-OCA">
+                                        <input type="checkbox" id="SETTING-OCA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">OCA</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-MARKETING">
+                                        <input type="checkbox" id="SETTING-MARKETING" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Marketing HUB</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-SEISMIC">
+                                        <input type="checkbox" id="SETTING-SEISMIC" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Seismic</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--setting">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="SETTING-PARTNER">
+                                        <input type="checkbox" id="SETTING-PARTNER" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Partner Ready Program</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="eight" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question eight-question" id="question-eight">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>8. ¿Te gustar&iacute;a entrenarte en alguna de estas herramientas?</h2>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-IQUOTE">
+                                        <input type="checkbox" id="TRAINER-IQUOTE" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">iQuote</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-PROMOS">
+                                        <input type="checkbox" id="TRAINER-PROMOS" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Promos Made Simple</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-ARUBAPEDIA">
+                                        <input type="checkbox" id="TRAINER-ARUBAPEDIA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Arubapedia</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-OCA">
+                                        <input type="checkbox" id="TRAINER-OCA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">OCA</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-MARKETING">
+                                        <input type="checkbox" id="TRAINER-MARKETING" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Marketing HUB</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-HOTELERIA">
+                                        <input type="checkbox" id="TRAINER-HOTELERIA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Hoteler&iacute;a</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-SEISMIC">
+                                        <input type="checkbox" id="TRAINER-SEISMIC" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Seismic</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--trainer">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="TRAINER-OTROS">
+                                        <input type="checkbox" id="TRAINER-OTROS" class="mdl-checkbox__input" data-name="otros" onclick="checkedOtros($(this))">
+                                        <span class="mdl-checkbox__label">OTROS</span>
+                                    </label>
+                                </div>
+                                <div class="jm-input">
+                                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                                        <input class="mdl-textfield__input" type="text" id="trainer-input">
+                                        <label class="mdl-textfield__label" for="trainer-input">Especifica</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="nine" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question nine-question" id="question-nine">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>9. ¿Con cu&aacute;l o cu&aacute;les distribuidores trabajas?</h2>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-INTCOMEX">
+                                        <input type="checkbox" id="DISTRIBUTOR-INTCOMEX" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Intcomex</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-INGRAM">
+                                        <input type="checkbox" id="DISTRIBUTOR-INGRAM" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Ingram Micro</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-LOGISTICA">
+                                        <input type="checkbox" id="DISTRIBUTOR-LOGISTICA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Logistica</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-SOLUTION">
+                                        <input type="checkbox" id="DISTRIBUTOR-SOLUTION" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Solution Box</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-TECHDATA">
+                                        <input type="checkbox" id="DISTRIBUTOR-TECHDATA" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Tech Data</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--distributor">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="DISTRIBUTOR-WESTHAM">
+                                        <input type="checkbox" id="DISTRIBUTOR-WESTHAM" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Westham Trade</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="jm-list--action">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="ten" onclick="nextQuestion($(this))">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="jm-question ten-question" id="question-ten">
+                            <div class="jm-list--checkbox">
+                                <div class="jm-title--checlbox">
+                                    <h2>10. ¿Qu&eacute; marcas comercializa tu empresa? (Puedes elegir m&aacute;s de una opci&oacute;n)</h2>
                                 </div>
                                 <div class="jm-title--checlbox">
                                     <h2>SERVERS</h2>
@@ -368,7 +705,7 @@
                                 <div class="jm-input">
                                     <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                                         <input class="mdl-textfield__input" type="text" id="server-input">
-                                        <label class="mdl-textfield__label" for="server-input">Especifique</label>
+                                        <label class="mdl-textfield__label" for="server-input">Especifica</label>
                                     </div>
                                 </div>
                             </div>
@@ -409,60 +746,78 @@
                                 <div class="jm-input">
                                     <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                                         <input class="mdl-textfield__input" type="text" id="storage-input">
-                                        <label class="mdl-textfield__label" for="storage-input">Especifique</label>
+                                        <label class="mdl-textfield__label" for="storage-input">Especifica</label>
                                     </div>
                                 </div>
                             </div>
                             <div class="jm-list--checkbox">
                                 <div class="jm-title--checlbox">
-                                    <h2>WIRELESS</h2>
+                                    <h2>NETWORKING</h2>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-HPEARUBA">
-                                        <input type="checkbox" id="WIRELESS-HPEARUBA" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-HPEARUBA">
+                                        <input type="checkbox" id="NETWORKING-HPEARUBA" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">HPE ARUBA</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-CISCOMERAKI">
-                                        <input type="checkbox" id="WIRELESS-CISCOMERAKI" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-CISCOMERAKI">
+                                        <input type="checkbox" id="NETWORKING-CISCOMERAKI" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">CISCO MERAKI</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-WIFIUBIQUITI">
-                                        <input type="checkbox" id="WIRELESS-WIFIUBIQUITI" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-WIFIUBIQUITI">
+                                        <input type="checkbox" id="NETWORKING-WIFIUBIQUITI" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">WIFI UBIQUITI</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-DELLNETWORKING">
-                                        <input type="checkbox" id="WIRELESS-DELLNETWORKING" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-DELLNETWORKING">
+                                        <input type="checkbox" id="NETWORKING-DELLNETWORKING" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">DELL NETWORKING</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-RUCKUS">
-                                        <input type="checkbox" id="WIRELESS-RUCKUS" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-RUCKUS">
+                                        <input type="checkbox" id="NETWORKING-RUCKUS" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">RUCKUS</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-LINKSYS">
-                                        <input type="checkbox" id="WIRELESS-LINKSYS" class="mdl-checkbox__input">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-LINKSYS">
+                                        <input type="checkbox" id="NETWORKING-LINKSYS" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">LINKSYS</span>
                                     </label>
                                 </div>
                                 <div class="js-checkbox jm-checkbox--wireless">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="WIRELESS-OTROS">
-                                        <input type="checkbox" id="WIRELESS-OTROS" class="mdl-checkbox__input" data-name="otros" onclick="checkedOtros($(this))">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-TPLINK">
+                                        <input type="checkbox" id="NETWORKING-TPLINK" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">TP LINK</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--wireless">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-EXTREME">
+                                        <input type="checkbox" id="NETWORKING-EXTREME" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">EXTREME</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--wireless">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-HUAWEI">
+                                        <input type="checkbox" id="NETWORKING-HUAWEI" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">HUAWEI</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox jm-checkbox--wireless">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="NETWORKING-OTROS">
+                                        <input type="checkbox" id="NETWORKING-OTROS" class="mdl-checkbox__input" data-name="otros" onclick="checkedOtros($(this))">
                                         <span class="mdl-checkbox__label">OTROS</span>
                                     </label>
                                 </div>
                                 <div class="jm-input">
                                     <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                                         <input class="mdl-textfield__input" type="text" id="wireless-input">
-                                        <label class="mdl-textfield__label" for="wireless-input">Especifique</label>
+                                        <label class="mdl-textfield__label" for="wireless-input">Especifica</label>
                                     </div>
                                 </div>
                             </div>
@@ -527,18 +882,18 @@
                                 <div class="jm-input">
                                     <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                                         <input class="mdl-textfield__input" type="text" id="hyperconvergencia-input">
-                                        <label class="mdl-textfield__label" for="hyperconvergencia-input">Especifique</label>
+                                        <label class="mdl-textfield__label" for="hyperconvergencia-input">Especifica</label>
                                     </div>
                                 </div>
                             </div>
                             <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="two" onclick="nextQuestion($(this))">Siguiente</button>
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="eleven" onclick="nextQuestion($(this))">Siguiente</button>
                             </div>
                         </div>
-                        <div class="jm-question two-question" id="question-two">
+                        <div class="jm-question eleven-question" id="question-eleven">
                             <div class="jm-list--checkbox">
                                 <div class="jm-title--checlbox">
-                                    <h2>2. Que describe mejor a tu compa&ntilde;ia? (Escoger m&aacute;s de una opci&oacute;n)</h2>
+                                    <h2>11. ¿Qu&eacute; describe mejor a tu compa&ntilde;ia? (Puedes elegir m&aacute;s de una opci&oacute;n)</h2>
                                 </div>
                                 <div class="js-checkbox max-width jm-checkbox--company">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="option-1">
@@ -585,210 +940,90 @@
                                 <div class="js-checkbox max-width jm-checkbox--company">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="option-8">
                                         <input type="checkbox" id="option-8" class="mdl-checkbox__input">
+                                        <span class="mdl-checkbox__label">Tienda retail</span>
+                                    </label>
+                                </div>
+                                <div class="js-checkbox max-width jm-checkbox--company">
+                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="option-9">
+                                        <input type="checkbox" id="option-9" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">Ninguna de las anteriores.</span>
                                     </label>
                                 </div>
                             </div>
                             <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="three" onclick="nextQuestion($(this))">Siguiente</button>
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="twelve" onclick="nextQuestion($(this))">Siguiente</button>
                             </div>
                         </div>
-                        <div class="jm-question three-question" id="question-three">
+                        <div class="jm-question twelve-question" id="question-twelve">
                             <div class="jm-list--checkbox">
                                 <div class="jm-title--checlbox">
-                                    <h2>3. Que ofrece HPE Simplivity HyperGuarantee?</h2>
+                                    <h2>12. ¿Cu&aacute;l es la diferencia en contratar entre estos dos servicios de HPE PointNext : Proactive Care VS Proactive Advanced?</h2>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--three">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-1">
-                                        <input type="checkbox" id="question1-1" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">A. Copias de seguridad en una hora.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--three">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-2">
-                                        <input type="checkbox" id="question1-2" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">B. Garantia de fabrica basica de 72 meses.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--three">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-3">
-                                        <input type="checkbox" id="question1-3" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">C. Un ahorro de capacidad del 90 % en almacenamiento y copia de seguridad combinados en relaci&oacute;n con las soluciones tradicionales comparables.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--three">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-4">
-                                        <input type="checkbox" id="question1-4" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">D. Capacidad de copia de seguridad integrada, llevar&aacute; menos de un minuto, de media, en completar una copia de seguridad local o una restauraci&oacute;n local de una m&aacute;quina virtual de 1 TB.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--three">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question1-5">
-                                        <input type="checkbox" id="question1-5" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">E. Soporta el hypervisor Acropolis.</span>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="four" onclick="nextQuestion($(this))">Siguiente</button>
-                            </div>
-                        </div>
-                        <div class="jm-question four-question" id="question-four">
-                            <div class="jm-list--checkbox">
-                                <div class="jm-title--checlbox">
-                                    <h2>4. Que bondades tiene la soluci&oacute;n de software Infosight?</h2>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--four">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question2-1">
-                                        <input type="checkbox" id="question2-1" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">A. Disponibilidad de 6 nueves (99.9999%).</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--four">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question2-2">
-                                        <input type="checkbox" id="question2-2" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">B. Elimina el soporte nivel 1 y 2.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--four">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question2-3">
-                                        <input type="checkbox" id="question2-3" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">C. Acceso a llamada de soporte nivel 3 en menos de 10 minutos.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--four">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question2-4">
-                                        <input type="checkbox" id="question2-4" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">D. Disponibilidad de 5 nueves (99.999%).</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--four">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question2-5">
-                                        <input type="checkbox" id="question2-5" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">E. Acceso a llamada de soporte nivel 3 en menos de 1 minuto.</span>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="five" onclick="nextQuestion($(this))">Siguiente</button>
-                            </div>
-                        </div>
-                        <div class="jm-question five-question" id="question-five">
-                            <div class="jm-list--checkbox">
-                                <div class="jm-title--checlbox">
-                                    <h2>5. Que productos son parte del portafolio de software de Aruba?</h2>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-1">
-                                        <input type="checkbox" id="question3-1" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">A. Aruba ClearPass.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-2">
-                                        <input type="checkbox" id="question3-2" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">B. Aruba Airwave.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-3">
-                                        <input type="checkbox" id="question3-3" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">C. Aruba Central.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-4">
-                                        <input type="checkbox" id="question3-4" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">D. Aruba Introspect.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-5">
-                                        <input type="checkbox" id="question3-5" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">E. Aruba Meridian.</span>
-                                    </label>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--five">
-                                    <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question3-6">
-                                        <input type="checkbox" id="question3-6" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">E. Aruba NetInsight.</span>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="six" onclick="nextQuestion($(this))">Siguiente</button>
-                            </div>
-                        </div>
-                        <div class="jm-question six-question" id="question-six">
-                            <div class="jm-list--checkbox">
-                                <div class="jm-title--checlbox">
-                                    <h2>6. Cual es la diferencia en contratar entre estos dos servicios de HPE PointNext : Proactive Care VS Proactive Advanced?</h2>
-                                </div>
-                                <div class="js-checkbox max-width jm-checkbox--six">
+                                <div class="js-checkbox max-width jm-checkbox--twelve">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question4-1">
                                         <input type="checkbox" id="question4-1" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">A. 1 ingeniero asignado VS. 2 ingenieros asignados.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--six">
+                                <div class="js-checkbox max-width jm-checkbox--twelve">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question4-2">
                                         <input type="checkbox" id="question4-2" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">B. 1 Ingeniero remoto asignado VS. 1 ingeniero asignado local.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--six">
+                                <div class="js-checkbox max-width jm-checkbox--twelve">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question4-3">
                                         <input type="checkbox" id="question4-3" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">C. Asistencia via telefonica en un tiempo de respuesta de 4hrs.</span>
+                                        <span class="mdl-checkbox__label">C. Asistencia v&iacute;a telef&oacute;nica en un tiempo de respuesta de 4hrs.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--six">
+                                <div class="js-checkbox max-width jm-checkbox--twelve">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question4-4">
                                         <input type="checkbox" id="question4-4" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">D. Dimensionamiento de espacio para futuras configuraciones dentro del Datacenter.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--six">
+                                <div class="js-checkbox max-width jm-checkbox--twelve">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question4-5">
                                         <input type="checkbox" id="question4-5" class="mdl-checkbox__input">
-                                        <span class="mdl-checkbox__label">E. Establecimiento de distintos equipos en misi&oacute;n critica dentro y fuera de la red.</span>
+                                        <span class="mdl-checkbox__label">E. Establecimiento de distintos equipos en misi&oacute;n cr&iacute;tica dentro y fuera de la red.</span>
                                     </label>
                                 </div>
                             </div>
                             <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="seven" onclick="nextQuestion($(this))">Siguiente</button>
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" data-id="thirteen" onclick="nextQuestion($(this))">Siguiente</button>
                             </div>
                         </div>
-                        <div class="jm-question seven-question" id="question-seven">
+                        <div class="jm-question thirteen-question" id="question-thirteen">
                             <div class="jm-list--checkbox">
                                 <div class="jm-title--checlbox">
-                                    <h2>7. Cuales son las ventajas competitivas de HPE Nimble Storage?</h2>
+                                    <h2>13. ¿Cu&aacute;les son las ventajas competitivas de HPE Nimble Storage?</h2>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--seven">
+                                <div class="js-checkbox max-width jm-checkbox--thirteen">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question5-1">
                                         <input type="checkbox" id="question5-1" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">A. Disponibilidad 99.9999%.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--seven">
+                                <div class="js-checkbox max-width jm-checkbox--thirteen">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question5-2">
                                         <input type="checkbox" id="question5-2" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">B. Soporta 10 blade Servers.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--seven">
+                                <div class="js-checkbox max-width jm-checkbox--thirteen">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question5-3">
                                         <input type="checkbox" id="question5-3" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">C. Cada 3 a&ntilde;os puedo renovar las tarjetas controladoras.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--seven">
+                                <div class="js-checkbox max-width jm-checkbox--thirteen">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question5-4">
                                         <input type="checkbox" id="question5-4" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">D. Es la mejor soluci&oacute;n de hyperconvergencia del mercado.</span>
                                     </label>
                                 </div>
-                                <div class="js-checkbox max-width jm-checkbox--seven">
+                                <div class="js-checkbox max-width jm-checkbox--thirteen">
                                     <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="question5-5">
                                         <input type="checkbox" id="question5-5" class="mdl-checkbox__input">
                                         <span class="mdl-checkbox__label">E. Todas las anteriores.</span>
@@ -796,15 +1031,14 @@
                                 </div>
                             </div>
                             <div class="jm-list--action">
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="sendQuiz()">Enviar Quiz</button>
+                                <button id="button-quiz" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-button" onclick="sendQuiz()">Enviar Quiz</button>
                             </div>
                         </div>
                         <div class="jm-question" id="section-cupo">
                             <div class="jm-cupo">
                                 <img src="<?php echo RUTA_IMG?>logo/logo.jpg">
                                 <h2>Gracias por participar!</h2>
-                                <h3></h3>
-                                <h4>Para reclamar su premio, debes imprimir este c&oacute;digo que se le ha enviado a su correo.</h4>
+                                <h4>Para reclamar su premio deber&aacute; presentar la impresi&oacute;n o fotograf&iacute;a del c&oacute;digo que se le enviara a su correo electr&oacute;nico.</h4>
                                 <div class="jm-list--cupo">
                                     <p>- El souvenir solo se entrega el d&iacute;a del evento.<p>
                                     <p>- No es transferible, la entrega es personal.</p>

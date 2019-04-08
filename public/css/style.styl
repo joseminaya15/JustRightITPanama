@@ -4,7 +4,7 @@ $boldopen  = 'OpenSansRoboto';
 $medium    = 'MetricSemiBold'
 $light     = 'MetricLight'
 $color   = #FDB913
-$default = #01a982
+$default = #ff8300
 flexCenter()
 	display flex
 	display -webkit-flex
@@ -320,7 +320,7 @@ strong
 	margin 10px
 	font-family $medium
 	width 100%
-	max-width 160px
+	max-width 175px
 	&.js-button--default
 		background-color transparent !important
 		border 2px solid #FFFFFF
@@ -373,11 +373,11 @@ strong
 	&.fondo1
 		background url(../img/fondo/fondo1.jpeg) no-repeat center center
 	&.fondo2
-		background url(../img/fondo/fondo2.jpg) no-repeat center center
+		background url(../img/fondo/fondo2.jpeg) no-repeat center center
 	&.fondo3
 		background url(../img/fondo/fondo3.jpeg) no-repeat center center
 	&.fondo4
-		background url(../img/fondo/fondo4.jpg) no-repeat center center
+		background url(../img/fondo/fondo4.jpeg) no-repeat center center
 	&.fondo5
 		background url(../img/fondo/fondo5.jpg) no-repeat center center
 	&.fondo6
@@ -433,6 +433,9 @@ footer
 				background-color transparent !important
 	.navbar-collapse
 		margin-top 10px
+	.navbar-toggle
+		.icon-bar
+			background-color #FFFFFF
 .navbar-brand
 	padding 0
 	position relative
@@ -493,6 +496,9 @@ footer
 		line-height 18px
 	img
 		max-width 100px
+		&.jm-logo-hpe
+			max-width 200px
+			margin-bottom 20px
 	small
 		display block
 		font-size 18px
@@ -648,6 +654,8 @@ table
 .jm-input
 	margin 10px 0
 	display none
+	&.jm-block
+		display block
 .mdl-textfield
 	width 100%
 	&.is-dirty
@@ -718,6 +726,7 @@ table
 		opacity 1
 		position relative
 		transform inherit
+		z-index 10
 	&.fadeOutLeft
 		position absolute
 	&.fadeInRight
@@ -801,6 +810,9 @@ table
 				display -webkit-box
 				-webkit-line-clamp 5
 				-webkit-box-orient vertical
+				strong 
+					font-weight 100
+					font-family $bold
 			.js-button
 				margin 0
 				border none
@@ -871,6 +883,18 @@ table
 	.js-fondo
 		&.fondo1
 			background url(../img/fondo/fondo1_mobile.jpg) no-repeat center center
+		&.fondo2
+			background url(../img/fondo/fondo4_mobile.jpg) no-repeat center center
+		&.fondo3
+			background url(../img/fondo/fondo3_mobile.jpeg) no-repeat center center
+		&.fondo4
+			background url(../img/fondo/fondo2_mobile.jpg) no-repeat center center
+		&.fondo5
+			background url(../img/fondo/fondo5_mobile.jpg) no-repeat center center
+		&.fondo6
+			background url(../img/fondo/fondo6_mobile.jpg) no-repeat center center
+		&.fondo7
+			background url(../img/fondo/fondo7_mobile.jpeg) no-repeat center center
 @media (max-width: 600px)
 	.js-contenido
 		padding 20px
