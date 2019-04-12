@@ -292,6 +292,7 @@
     <section id="login" class="js-section jm-white jm-acceso">
         <div class="js-container">
             <h2 class="js-title">COMPLETA LA ENCUESTA Y G&Aacute;NATE ESTE DASH CAM</h2>
+            <span>(Solo para los primeros 50 registrados)</span>
             <img src="<?php echo RUTA_IMG?>fondo/regalo.png">
             <p class="text-center">Si ya te encuentras registrado, ingresa tu email para realizar una breve encuesta y ganar grandes premios.</p>
             <div class="js-input js-input--default">
